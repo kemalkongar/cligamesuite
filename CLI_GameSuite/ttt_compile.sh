@@ -1,0 +1,1 @@
+g++ -o ttt ttt_main.cpp ttt.cpp

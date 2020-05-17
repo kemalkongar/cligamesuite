@@ -1,0 +1,1 @@
+g++ -o blackjack blackjack_main.cpp blackjack.cpp
